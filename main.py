@@ -1,6 +1,5 @@
 import os
 import json
-import getpass
 import requests
 import base64
 import time
